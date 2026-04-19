@@ -29,8 +29,4 @@ Pour débrider totalement la puissance de MB-SEARCH :
 • Le Terminal affiche le journal des connexions en temps réel.
 • Le Rapport d'Intelligence compile les statistiques (Fuites, Devices, Décès).
 • Les Données Brutes (en bas) permettent d'analyser les flux JSON extraits.
-⚠️ Rappels de Sécurité
-• Clés API : Vos clés sont inscrites dans le code. Ne partagez pas ce fichier.
-• Éthique : L'utilisateur est seul responsable de l'exploitation des données collectées.
-Statut du Système : OPÉRATIONNEL
-Sources Actives : MatchID, Shodan, IntelX, DarkWeb
+
